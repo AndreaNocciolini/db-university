@@ -1,0 +1,17 @@
+===Database university_boolean
+
+== Table structure for table departments
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|bigint(20)|No|
+|name|varchar(255)|No|
+|address|varchar(255)|No|
+|phone|varchar(255)|Yes|NULL
+|**email**|varchar(255)|No|
+|website|varchar(255)|No|
+|head_of_department|varchar(255)|No|
+== Dumping data for table departments
+
+|12

@@ -1,0 +1,28 @@
+===Database university_boolean
+
+== Table structure for table degrees
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|bigint(20)|No|
+|department_id|bigint(20)|No|
+|name|varchar(255)|No|
+|level|varchar(255)|No|
+|address|varchar(255)|No|
+|email|varchar(255)|No|
+|website|varchar(255)|No|
+== Dumping data for table degrees
+
+|10|1
+|4|2
+|4|3
+|9|4
+|4|5
+|6|6
+|7|7
+|8|8
+|5|9
+|8|10
+|3|11
+|7|12

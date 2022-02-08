@@ -1,0 +1,22 @@
+===Database university_boolean
+
+== Table structure for table students
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|bigint(20)|No|
+|degree_id|bigint(20)|No|
+|name|varchar(255)|No|
+|surname|varchar(255)|No|
+|date_of_birth|date|No|
+|fiscal_code|varchar(255)|No|
+|enrolment_date|date|No|
+|registration_number|varchar(255)|No|
+|**email**|varchar(255)|No|
+== Dumping data for table students
+
+|912|2018
+|1709|2019
+|1645|2020
+|734|2021
