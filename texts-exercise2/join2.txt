@@ -1,0 +1,23 @@
+===Database university_boolean
+
+== Table structure for table degrees
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|bigint(20)|No|
+|department_id|bigint(20)|No|
+|name|varchar(255)|No|
+|level|varchar(255)|No|
+|address|varchar(255)|No|
+|email|varchar(255)|No|
+|website|varchar(255)|No|
+== Dumping data for table degrees
+
+|38|7|Corso di Laurea in Educazione Professionale|triennale|Rotonda Davis 720|educazione-professionale@uni.it|www.educazione-professionale.uni.it|7|Dipartimento di Neuroscienze|Borgo Ubaldo 181 Appartamento 41|+32 6290 01889948|neuroscienze@uni.it|www.neuroscienze.uni.it|Dante Lombardi
+|39|7|Corso di Laurea in Fisioterapia|triennale|Strada Parisi 5|fisioterapia@uni.it|www.fisioterapia.uni.it|7|Dipartimento di Neuroscienze|Borgo Ubaldo 181 Appartamento 41|+32 6290 01889948|neuroscienze@uni.it|www.neuroscienze.uni.it|Dante Lombardi
+|40|7|Corso di Laurea in Igiene Dentale|triennale|Rotonda Martini 446|igiene-dentale@uni.it|www.igiene-dentale.uni.it|7|Dipartimento di Neuroscienze|Borgo Ubaldo 181 Appartamento 41|+32 6290 01889948|neuroscienze@uni.it|www.neuroscienze.uni.it|Dante Lombardi
+|41|7|Corso di Laurea in Logopedia|triennale|Strada Lisa 27|logopedia@uni.it|www.logopedia.uni.it|7|Dipartimento di Neuroscienze|Borgo Ubaldo 181 Appartamento 41|+32 6290 01889948|neuroscienze@uni.it|www.neuroscienze.uni.it|Dante Lombardi
+|42|7|Corso di Laurea in Tecnica della Riabilitazione Psichiatrica|triennale|Strada Naomi 536|tecnica-della-riabilitazione-psichiatrica@uni.it|www.tecnica-della-riabilitazione-psichiatrica.uni.it|7|Dipartimento di Neuroscienze|Borgo Ubaldo 181 Appartamento 41|+32 6290 01889948|neuroscienze@uni.it|www.neuroscienze.uni.it|Dante Lombardi
+|43|7|Corso di Laurea in Tecniche di Neurofisiopatologia|triennale|Incrocio Bibiana 32|tecniche-di-neurofisiopatologia@uni.it|www.tecniche-di-neurofisiopatologia.uni.it|7|Dipartimento di Neuroscienze|Borgo Ubaldo 181 Appartamento 41|+32 6290 01889948|neuroscienze@uni.it|www.neuroscienze.uni.it|Dante Lombardi
+|44|7|Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria|magistrale|Via Mariani 185|odontoiatria-e-protesi-dentaria@uni.it|www.odontoiatria-e-protesi-dentaria.uni.it|7|Dipartimento di Neuroscienze|Borgo Ubaldo 181 Appartamento 41|+32 6290 01889948|neuroscienze@uni.it|www.neuroscienze.uni.it|Dante Lombardi

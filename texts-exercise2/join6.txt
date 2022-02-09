@@ -1,0 +1,58 @@
+===Database university_boolean
+
+== Dumping data for table teachers
+
+|98|Cristyn|Martinelli|NULL|nicoletta67@longo.com|Dipartimento di Matematica
+|51|Folco|Piras|NULL|gregorio.valentini@gmail.com|Dipartimento di Matematica
+|78|Kristel|Bellini|NULL|lamberto29@palmieri.org|Dipartimento di Matematica
+|25|Concetta|Bianchi|+58 211 72300216|giobbe99@libero.it|Dipartimento di Matematica
+|13|Tosca|Donati|+97 9502 52491933|marco26@yahoo.it|Dipartimento di Matematica
+|73|Elda|Bruno|+62 35 8488435|diamante.monti@battaglia.it|Dipartimento di Matematica
+|45|Eusebio|Pellegrini|+16 76 8795400|prisca.giuliani@santoro.com|Dipartimento di Matematica
+|19|Ione|Mariani|NULL|qriva@amato.com|Dipartimento di Matematica
+|92|Mariagiulia|Guerra|+39 314 686 094|leone07@desantis.net|Dipartimento di Matematica
+|67|Ivonne|Neri|+61 72 18587184|sorrentino.violante@hotmail.com|Dipartimento di Matematica
+|38|Rufo|Morelli|NULL|zelida16@email.it|Dipartimento di Matematica
+|87|Gianantonio|Monti|+39 076 918 693|mariagiulia.riva@gmail.com|Dipartimento di Matematica
+|33|Cassiopea|Valentini|NULL|romeo94@battaglia.it|Dipartimento di Matematica
+|89|Piererminio|Greco|NULL|gaetano.barone@yahoo.it|Dipartimento di Matematica
+|10|Maria|Esposito|+30 91 02098027|caruso.davide@yahoo.it|Dipartimento di Matematica
+|68|Cleopatra|Rinaldi|394 643 755|uvitale@silvestri.it|Dipartimento di Matematica
+|28|Rudy|Fontana|NULL|lombardo.nestore@colombo.it|Dipartimento di Matematica
+|14|Pericle|Rossetti|343 467 240|diana94@hotmail.com|Dipartimento di Matematica
+|48|Nabil|Rossetti|NULL|ivonne.derosa@yahoo.it|Dipartimento di Matematica
+|20|Marvin|Ferrari|NULL|smazza@gmail.com|Dipartimento di Matematica
+|47|Bibiana|Farina|NULL|lferrara@marino.it|Dipartimento di Matematica
+|44|Fulvio|Amato|NULL|ubianco@bellini.com|Dipartimento di Matematica
+|30|Cosetta|Palmieri|+39 382 251 589|dindo57@palmieri.it|Dipartimento di Matematica
+|81|Laerte|Mancini|NULL|milani.alighiero@gallo.it|Dipartimento di Matematica
+|26|Carmelo|Benedetti|+39 010 391 127|rossetti.erminia@yahoo.it|Dipartimento di Matematica
+|52|Pablo|Caruso|NULL|caio.caputo@conti.it|Dipartimento di Matematica
+|17|Rosaria|Neri|344 690 022|rosalba.rizzo@grassi.it|Dipartimento di Matematica
+|4|Prisca|Caputo|+33 37 87454077|lazzaro12@hotmail.com|Dipartimento di Matematica
+|43|Penelope|Bruno|NULL|htesta@milani.com|Dipartimento di Matematica
+|64|Loretta|Amato|+26 383 40 14 3011|lucia.lombardo@yahoo.it|Dipartimento di Matematica
+|66|Felicia|Testa|NULL|doriana.vitale@fabbri.it|Dipartimento di Matematica
+|21|Michele|Milani|NULL|nico.morelli@donati.org|Dipartimento di Matematica
+|61|Cosetta|Costantini|+02 4239 6196733|valentini.giovanna@yahoo.com|Dipartimento di Matematica
+|88|Piersilvio|Rinaldi|+19 787 5568494|igreco@sanna.net|Dipartimento di Matematica
+|18|Lorenzo|Rizzi|NULL|gallo.samira@hotmail.com|Dipartimento di Matematica
+|7|Noemi|Ferraro|348 610 711|amarini@gmail.com|Dipartimento di Matematica
+|83|Isira|Santoro|NULL|rosalino20@neri.com|Dipartimento di Matematica
+|50|Sarita|Donati|+21 443 59 54 4170|aparisi@galli.com|Dipartimento di Matematica
+|69|Evita|Morelli|+39 310 272 545|grazia66@hotmail.com|Dipartimento di Matematica
+|53|Cira|Caputo|NULL|amerigo.carbone@monti.org|Dipartimento di Matematica
+|82|Felicia|Serra|NULL|egidio17@email.it|Dipartimento di Matematica
+|79|Benedetta|Vitale|+39 377 152 789|bianco.ursula@ferraro.com|Dipartimento di Matematica
+|35|Gavino|Fabbri|NULL|ndesantis@negri.com|Dipartimento di Matematica
+|16|Miriana|Morelli|+20 997 51 54 1939|morgana.moretti@rinaldi.net|Dipartimento di Matematica
+|58|Pietro|Rizzo|+21 6710 0964205|sanna.michele@negri.it|Dipartimento di Matematica
+|22|Anselmo|Martino|+99 90 5086288|mgiuliani@testa.it|Dipartimento di Matematica
+|74|Maika|Bellini|NULL|ferri.walter@martino.com|Dipartimento di Matematica
+|65|Giovanna|Mariani|NULL|luna.rizzo@hotmail.com|Dipartimento di Matematica
+|39|Guendalina|Barbieri|NULL|davis34@yahoo.com|Dipartimento di Matematica
+|9|Demis|Marino|NULL|fulvio.grasso@hotmail.com|Dipartimento di Matematica
+|5|Arduino|Vitali|NULL|nicoletta.marino@derosa.it|Dipartimento di Matematica
+|15|Valdo|Carbone|+72 938 6591087|gianriccardo23@hotmail.com|Dipartimento di Matematica
+|12|Arduino|Romano|NULL|abramo.gentile@benedetti.org|Dipartimento di Matematica
+|86|Diamante|Barone|NULL|naomi56@lombardo.it|Dipartimento di Matematica
